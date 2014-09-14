@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+        name="function_list">
+        <item
+            >drive_forward</item>
+        <item
+            >wait 5 seconds</item>
+    </string-array>
+</resources>
