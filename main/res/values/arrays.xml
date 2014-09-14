@@ -11,20 +11,26 @@
         <item
             >Drive backward</item>
         <item
-            >Play Beep</item>
-        <item
             >Turn Right</item>
         <item
             >Turn Left</item>
         <item
+            >Turn Right 90 degrees</item>
+        <item
+            >Turn Left 90 degrees</item>
+        <item
+            >Play Beep</item>
+        <item
             >Wait X milliseconds (input)</item>
         <item
-            >Drive forward X distance (input)</item>
+            >Drive forward X wheel revolutions (input)</item>
         <item
             >Drive forward at X% speed (input)</item>
         <item
-            >Turn angle (input)</item>
+            >Turn X Degrees Right (input)</item>
         <item
-            >Play Tone at X Hz</item>
+            >Turn X Degrees Left (input)</item>
+        <item
+            >Play Tone at X Hz (input)</item>
     </string-array>
 </resources>
