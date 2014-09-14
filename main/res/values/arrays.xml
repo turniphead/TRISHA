@@ -2,35 +2,21 @@
 <resources>
     <string-array
         name="function_list">
-        <item
-            >LED on</item>
-        <item
-            >LED off</item>
-        <item
-            >Drive forward</item>
-        <item
-            >Drive backward</item>
-        <item
-            >Turn Right</item>
-        <item
-            >Turn Left</item>
-        <item
-            >Turn Right 90 degrees</item>
-        <item
-            >Turn Left 90 degrees</item>
-        <item
-            >Play Beep</item>
-        <item
-            >Wait X milliseconds (input)</item>
-        <item
-            >Drive forward X wheel revolutions (input)</item>
-        <item
-            >Drive forward at X% speed (input)</item>
-        <item
-            >Turn X Degrees Right (input)</item>
-        <item
-            >Turn X Degrees Left (input)</item>
-        <item
-            >Play Tone at X Hz (input)</item>
+        <item>LED on</item>
+        <item>LED off</item>
+        <item>Drive forward</item>
+        <item>Drive backward</item>
+        <item>Turn Right</item>
+        <item>Turn Left</item>
+        <item>Turn Right 90 degrees</item>
+        <item>Turn Left 90 degrees</item>
+        <item>Play Beep</item>
+        <item>Wait X milliseconds (input)</item>
+        <item>Drive forward X wheel revolutions (input)</item>
+        <item>Drive forward at X% speed (input)</item>
+        <item>Turn X Degrees Right (input)</item>
+        <item>Turn X Degrees Left (input)</item>
+        <item>Play Tone at X Hz (input)</item>
+
     </string-array>
 </resources>
