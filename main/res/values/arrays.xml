@@ -6,11 +6,13 @@
         <item>LED off</item>
         <item>Drive forward</item>
         <item>Drive backward</item>
+        <item>Stop</item>
         <item>Turn Right</item>
         <item>Turn Left</item>
         <item>Turn Right 90 degrees</item>
         <item>Turn Left 90 degrees</item>
         <item>Play Beep</item>
+        <item>Wait 1 second</item>
         <item>Wait X milliseconds (input)</item>
         <item>Drive forward X wheel revolutions (input)</item>
         <item>Drive forward at X% speed (input)</item>
